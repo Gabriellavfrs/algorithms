@@ -1,10 +1,19 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Project Algorithms
+
+- Search algorithms
+- Sort Algorithms
+- Recursive Algorithms
+- Iterative Algoritms
+- Tests
+## Running the app
+
+  ```bash
+# To create the virtual environment
+  python3 -m venv .venv
+
+#To cctivate the virtual environment
+  source .venv/bin/activate
+
+# To install dependencies in the virtual environment
+  python3 -m pip install -r dev-requirements.txt
+  ```
