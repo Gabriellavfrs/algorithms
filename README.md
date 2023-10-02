@@ -1,11 +1,11 @@
-## Project Algorithms
+## Algorithms
 
 - Search algorithms
 - Sort Algorithms
 - Recursive Algorithms
 - Iterative Algoritms
 - Tests
-## Running the app
+## To run it
 
   ```bash
 # To create the virtual environment
